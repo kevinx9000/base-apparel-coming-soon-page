@@ -53,6 +53,7 @@ I got this as far as I could take it, but then had to stop before I went mad. He
 
 - **Layout:** the sneaky part from the design examples (in my DESIGN folder) is how the layout changed from desktop to mobile. Since the location of the hero image changes in the flow, I went with `grid-template-areas` but didn't work out perfectly. For some reason it also left white space on the right of my mobile view.
 - **Submit button:** Trying to position it *inside* the input field. I used positioning, but when the resposive layout changes, sometime it would be off by a few pixels and no longer fit neatly into the input bar.
+- **Background image:** Couldn't seem to control it the way I wanted to and matcht the *Design* example. The example seems more transparent and covers more of the page. I tried `cover` obviously, but that made it too huge so you couldn't see the whole design. This is probably related to my choice of layout above and impacted by my choice of Grid layout.
 
 And probably a few more things, but those are the two major issues. I plan to come back and work this again sometime, but I wanted to submit it now as my best effort at the moment, until I can get some tips on how I could improve it.
 
