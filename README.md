@@ -58,5 +58,5 @@ And probably a few more things, but those are the two major issues. I plan to co
 
 ## Author
 
-- Website - [Add your name here](https://www.kevinherrmann.quest)
+- Website - [My portfolio website](https://www.kevinherrmann.quest)
 - Frontend Mentor - [@kevinx9000](https://www.frontendmentor.io/profile/kevinx9000)
